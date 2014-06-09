@@ -1,0 +1,61 @@
+<manifest alg="2" build="30" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="3983832653"/>
+    <file name="master_a-p_gina-maestra.css" crc="493240422" ref="geografia:index:mapa-de-ubicacion:historia"/>
+    <file name="master_b-p_gina-maestra.css" crc="4093610215" ref="galeria"/>
+    <file name="galeria.css" crc="113114923" ref="galeria"/>
+    <file name="geografia.css" crc="3920073741" ref="geografia"/>
+    <file name="index.css" crc="3973983808" ref="index"/>
+    <file name="mapa-de-ubicacion.css" crc="64946809" ref="mapa-de-ubicacion"/>
+    <file name="historia.css" crc="4195390205" ref="historia"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:historia:geografia:mapa-de-ubicacion:galeria"/>
+    <file name="museutils.js" crc="4291592202" ref="index:historia:geografia:mapa-de-ubicacion:galeria"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="index:historia:geografia:mapa-de-ubicacion"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:historia:geografia:mapa-de-ubicacion:galeria"/>
+    <file name="webpro.js" crc="3903299128" ref="galeria"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="galeria"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="galeria"/>
+    <file name="touchswipe.js" crc="4156838003" ref="galeria"/>
+  </folder>
+  <folder name="images">
+    <file name="christian-background-loops.jpg" crc="178458846" ref="index:historia:geografia:mapa-de-ubicacion:galeria"/>
+    <file name="la-magdalena-tlatlauquitepec-pueblo-magico-logo-1376915316_png_30ad265e77db1b7ea23706fcc41eb431.png" crc="3839772343" ref="index:historia:geografia:mapa-de-ubicacion"/>
+    <file name="1885948.jpg" crc="511543926" ref="index:historia:geografia:mapa-de-ubicacion"/>
+    <file name="u269-8.png" crc="21663747" ref="historia"/>
+    <file name="u278-7.png" crc="328737889" ref="geografia"/>
+    <file name="mapa01.gif" crc="3764383740" ref="mapa-de-ubicacion"/>
+    <file name="2328_web_tlatlauquitepec_puebla.jpg" crc="60051144" ref="galeria"/>
+    <file name="blank.gif" crc="4208392903" ref="galeria"/>
+    <file name="6321-ciudad-de-tlatlauquitepec-un-dia-nublado.jpg" crc="196668580" ref="galeria"/>
+    <file name="24953_1.jpg" crc="203948456" ref="galeria"/>
+    <file name="ic1660.jpg" crc="171789451" ref="galeria"/>
+    <file name="tlatlauquitepec-puebla-02.jpg" crc="4093198357" ref="galeria"/>
+    <file name="_dsc0052.jpg" crc="9940395" ref="galeria"/>
+    <file name="tlatlauquitepec-puebla-06.jpg" crc="239091129" ref="galeria"/>
+    <file name="21t095-02.jpg" crc="4067262153" ref="galeria"/>
+    <file name="descarga.jpg" crc="3878679492" ref="galeria"/>
+    <file name="205358_357768504294184_946722064_n.jpg" crc="380399569" ref="galeria"/>
+    <file name="tlatlauquitepeccentro.jpg" crc="275229595" ref="galeria"/>
+    <file name="tlatlauquitepec11.jpg" crc="3842300156" ref="galeria"/>
+    <file name="maxresdefault.jpg" crc="4230334730" ref="galeria"/>
+    <file name="tla.jpg" crc="451352624" ref="galeria"/>
+    <file name="2328_web_tlatlauquitepec_puebla88x45.jpg" crc="223355074" ref="galeria"/>
+    <file name="6321-ciudad-de-tlatlauquitepec-un-dia-nublado61x45.jpg" crc="74001760" ref="galeria"/>
+    <file name="24953_168x45.jpg" crc="364471617" ref="galeria"/>
+    <file name="tlatlauquitepec-puebla-0260x45.jpg" crc="3795064174" ref="galeria"/>
+    <file name="_dsc005294x45.jpg" crc="117790227" ref="galeria"/>
+    <file name="tlatlauquitepec-puebla-0668x45.jpg" crc="4221038057" ref="galeria"/>
+    <file name="205358_357768504294184_946722064_n68x45.jpg" crc="4068831160" ref="galeria"/>
+    <file name="tlatlauquitepeccentro61x45.jpg" crc="3885799399" ref="galeria"/>
+    <file name="tlatlauquitepec1160x45.jpg" crc="3955013963" ref="galeria"/>
+    <file name="loading.gif" crc="3815509949" ref="galeria"/>
+    <file name="fondo-cielo-rosa.gif" crc="27784476" ref="galeria"/>
+  </folder>
+  <file name="index.html" crc="363626435" mt="1402275751102" redirect="true"/>
+  <file name="historia.html" crc="4212367065" mt="1402275751111" redirect="true"/>
+  <file name="geografia.html" crc="149396217" mt="1402275751118" redirect="true"/>
+  <file name="mapa-de-ubicacion.html" crc="4162742876" mt="1402275751126" redirect="true"/>
+  <file name="galeria.html" crc="276260713" mt="1402275490837" redirect="true"/>
+</manifest>
